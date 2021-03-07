@@ -34,9 +34,7 @@
   },
   "scripts": {},
   "dependencies": {
-      "@types/connect": "*",
-      "@types/webpack": "*",
-      "webpack": "^5.24.3"
+      "@types/connect": "*"
   },
   "typesPublisherContentHash": "321ef682e04abd6821dc1fb6cba17ea1e082b07eee1ac2da4e362371f77b9419",
   "typeScriptVersion": "3.0"
